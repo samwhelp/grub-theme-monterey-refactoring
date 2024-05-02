@@ -5,6 +5,8 @@
 | Link | GitHub |
 | ---- | ------ |
 | [grub-theme-monterey-refactoring](https://samwhelp.github.io/grub-theme-monterey-refactoring/) | [GitHub](https://github.com/samwhelp/grub-theme-monterey-refactoring) |
+| [grub-theme-refactoring](https://samwhelp.github.io/grub-theme-refactoring) | [GitHub](https://github.com/samwhelp/grub-theme-refactoring) |
+| [grub-theme-refactoring-select](https://samwhelp.github.io/grub-theme-refactoring-select/) | [GitHub](https://github.com/samwhelp/grub-theme-refactoring-select) |
 
 
 
