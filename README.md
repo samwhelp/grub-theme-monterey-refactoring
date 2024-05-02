@@ -15,7 +15,7 @@
 * [Theme Source](#theme-source)
 * [Theme File](#theme-file)
 * [Install](#install)
-* [Config](#config)
+* [Apply](#apply)
 * [Docs](#docs)
 
 
@@ -71,7 +71,7 @@ bash <(curl -L 'https://raw.githubusercontent.com/samwhelp/grub-theme-monterey-r
 
 
 
-## Config
+## Apply
 
 edit `/etc/default/grub`
 
